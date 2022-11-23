@@ -1,0 +1,26 @@
+.home-container-1
+{
+  min-height: 100vh;
+  max-width: 100%;
+  display:flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  padding-left: 0px;
+  
+}
+
+.home-container-2{
+  display: flex;
+ justify-content: right;
+  width: 100%;
+  border: solid 1px #d6d9dc;
+  padding: 24px;
+  box-sizing: border-box;
+  
+}
+
+.home-container-3{
+ justify-content:flex-start;
+ align-items:flex-start;
+ width: 100%;
+}
